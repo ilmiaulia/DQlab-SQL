@@ -1,5 +1,4 @@
 use dqlab_sql;
-
 CREATE TABLE ms_pelanggan ( 
 	no_urut INT,
         kode_pelanggan varchar(13) NOT NULL,
